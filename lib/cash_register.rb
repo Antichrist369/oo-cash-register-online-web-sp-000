@@ -35,6 +35,4 @@ class CashRegister
   end 
   
   
-  
-
 end 
