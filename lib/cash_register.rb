@@ -32,6 +32,8 @@ class CashRegister
   end 
   
   def void_last_transaction 
+    @items = #{[]} 
+    @total << @last_transaction_amount
   end 
   
   
