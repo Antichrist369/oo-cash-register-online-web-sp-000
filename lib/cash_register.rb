@@ -31,7 +31,7 @@ class CashRegister
     end 
   end 
   
-  def avoids_last_transaction 
+  def void_last_transaction 
   end 
   
   
